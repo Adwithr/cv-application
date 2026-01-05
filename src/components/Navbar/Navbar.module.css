@@ -1,0 +1,11 @@
+.navBar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1em;
+}
+
+.navBarText {
+  font-size: 2em;
+  cursor: pointer;
+}
