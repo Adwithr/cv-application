@@ -1,0 +1,43 @@
+.genInfoSection {
+  width: 30em;
+  padding: 2em;
+  padding-top: 1em;
+  border: 1px solid rgba(255, 255, 255, 0.87);
+  border-radius: 10px;
+}
+
+.hdr {
+  font-size: 20px;
+  margin-bottom: 0.5em;
+  text-decoration: underline;
+}
+
+.genInfoSection form {
+  display: flex;
+  flex-direction: column;
+}
+
+.genInfoSection input {
+  margin-bottom: 10px;
+  padding: 0.2em;
+}
+
+.submitBtn {
+  width: fit-content;
+  margin-left: auto;
+  font-size: 16px;
+  padding: 0.2em 0.4em;
+  border-radius: 10px;
+  margin-top: 0.5em;
+  border: none;
+  cursor: pointer;
+}
+
+.editBtn {
+  font-size: 16px;
+  padding: 0.2em 0.4em;
+  border-radius: 10px;
+  margin-top: 0.5em;
+  border: none;
+  cursor: pointer;
+}
